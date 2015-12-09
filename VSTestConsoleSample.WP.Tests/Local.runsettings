@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <!-- Configurations that affect the Test Framework -->
+  <RunConfiguration>
+    <!-- Path relative to solution directory -->
+    <ResultsDirectory>.\TestResults</ResultsDirectory>
+  </RunConfiguration>
+  <Execution parallelTestCount="1" />
+  <MSPhoneTest>
+    <TargetDevice>Emulator 8.1 WVGA 4 inch 512MB</TargetDevice>
+  </MSPhoneTest>
+</RunSettings>
